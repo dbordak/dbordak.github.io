@@ -34,6 +34,15 @@ An Emacs plugin that shares your current buffer via email or SMS.
 
 Won 2nd place at the Spring 2015 HackRU!
 
+** [[https://github.com/revan/BusOccupancy][BusOccupancy]]
+
+[[./media/bus_occupancy.png]]
+
+Independent Study project. We observed the occupancy of a bus route
+directly, then attempted to develop a reliable estimate by analyzing
+the data with various heuristics. The initial data was gathered via
+tcpdump, and the graphs were produced using Pandas+Numpy.
+
 ** [[https://github.com/revan/captcha4charity][captcha4charity]]
 
 [[./media/captcha4charity.png]]
