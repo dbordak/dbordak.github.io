@@ -10,4 +10,5 @@ I'm a recently graduated Software Engineer who cares about code
 cleanliness and doing things right the first time. I love to try out
 new technologies -- just take a look through my projects.
 
-I'm currently looking for a job.
+I'm currently looking for a job, so shoot me an [[mailto:dbordak@gmail.com][email]] if you'd like to
+chat!
