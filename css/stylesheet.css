@@ -1,12 +1,12 @@
 body {
-	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, FreeSerif, serif;
-	font-size: 15px;
 	line-height: 22px;
 	color: #252519;
 	margin: 0;
 	padding: 0;
-	//padding-left: 5%;
 }
+
+h2 { font-size: 24pt; }
+h3 { font-size: 18pt; }
 
 #content > * {
 	padding: 1em;
@@ -15,42 +15,29 @@ body {
 #content > div {
 	overflow-y: auto;
 	flex: 1 1 auto;
+	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, sans-serif;
+	font-size: 15px;
 }
 
 a {
 	color: #261a3b;
 	text-decoration: none;
-	text-shadow: 0 0 6px;
 }
-#text-table-of-contents a{
-	text-shadow: 0 0 0;
+
+p a {
+	text-shadow: 0 0 6px;
 }
 
 a:hover {
 	color: #666666;
-}
-#text-table-of-contents a:hover{
-	border-radius: 3px;
-	background: #cfbfad;
 }
 
 .org-ul, .org-ol {
 	padding-left: 0;
 }
 
-p, .org-ul, .org-ol {
-}
-
 h1 {
 	margin-top: 40px;
-}
-
-.background {
-	position: fixed;
-	top: 0; left: 41%; right: 0; bottom: 0;
-	background: #1e1e27;
-	border-left: 1px solid #e5e5ee;
-	z-index: -1;
 }
 
 body, #content {
@@ -77,25 +64,6 @@ navigation a {
 	text-shadow: 0 0 0;
 }
 
-.example, .src {
-	color: #cfbfad;
-}
-
-pre, tt, code {
-    font-size: 14px; line-height: 18px;
-    font-family: Inconsolata, Monaco, Consolas, "Lucida Console", monospace;
-    margin: 0; padding: 0;
-}
-
-.org-src-container, figure, pre.example, video {
-	clear: right;
-	width: 58%;
-	margin: 0;
-	overflow: hidden;
-	margin-bottom: 10px;
-	margin-right: 2%;
-}
-
 figure > p {
 	width: 100%;
 }
@@ -104,17 +72,19 @@ blockquote {
 	margin-left: 0;
 }
 
-img {
-	max-width: 95%;
+p {
+	max-width: 40em;
+	margin-left: 2em;
+}
+
+p img {
+	max-width: 110%;
+	margin-left: -2em;
 }
 
 .verse {
 	font-style: oblique;
 	padding-left: 10px;
-}
-
-div.footdef {
-	width: 35%;
 }
 
 p.footpara {

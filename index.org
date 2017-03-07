@@ -1,8 +1,13 @@
+#+TITLE: Daniel Bordak
 #+AUTHOR: Daniel Bordak
 #+HTML_HEAD: <link rel="stylesheet" href="css/stylesheet.css">
-#+OPTIONS: toc:nil num:nil
+#+OPTIONS: toc:nil num:nil title:nil
 #+INCLUDE: "./components/sidebar.html" export html
 
 * About Me
 
-Hello Warudo
+I'm a recently graduated Software Engineer who cares about code
+cleanliness and doing things right the first time. I love to try out
+new technologies -- just take a look through my projects.
+
+I'm currently looking for a job.

@@ -1,0 +1,54 @@
+#+TITLE: Projects
+#+AUTHOR: Daniel Bordak
+#+HTML_HEAD: <link rel="stylesheet" href="css/stylesheet.css">
+#+OPTIONS: toc:nil num:nil title:nil
+#+INCLUDE: "./components/sidebar.html" export html
+
+* Projects
+  
+** [[https://github.com/dbordak/telephone-line][telephone-line]]
+
+[[./media/abs.png]]
+
+A new implementation of [[https://github.com/powerline/powerline][Powerline]] for Emacs. As compared to the
+existing version, telephone-line features greater extensibility -- it
+is possible to add your own modeline segments, reorder them, add more,
+customize separators, and more!
+
+Pictured is a very standard powerline theme, but there are many more
+separators included.
+
+** [[https://github.com/dbordak/words][words]]
+
+[[./media/words.png]]
+
+An implementation of [[https://boardgamegeek.com/boardgame/178900/codenames][Codenames]] by Vlaada Chvátil using Elixir+Phoenix
+for the backend and Elm for the frontend. This was mostly a learning
+project for the aforementioned technologies, but this is actually a
+fully functioning game! There are a few issues (check github), but you
+can play complete games.
+
+** [[https://github.com/dbordak/shar.el][shar.el]]
+
+An Emacs plugin that shares your current buffer via email or SMS.
+
+Won 2nd place at the Spring 2015 HackRU!
+
+** [[https://github.com/revan/captcha4charity][captcha4charity]]
+
+[[./media/captcha4charity.png]]
+
+A crowdsourced captcha solver which raises money for charity. The
+project wasn't quite finished, but it still made for a nice
+presentation.
+
+Won "Restored Faith In Humanity" at the Spring 2014 HackRU!
+
+** [[https://github.com/dbordak/mailcraft][mailcraft]]
+
+[[./media/mailcraft.png]]
+
+A maze generator for Minecraft using email threads to determine the shape.
+
+Won "Best Use of the Context.IO API" at the Fall 2013 HackRU!
+
