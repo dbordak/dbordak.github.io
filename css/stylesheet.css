@@ -78,8 +78,7 @@ p {
 }
 
 p img {
-	max-width: 110%;
-	margin-left: -2em;
+	width: 100%;
 }
 
 .verse {
