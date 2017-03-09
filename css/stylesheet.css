@@ -8,7 +8,8 @@ body {
 h2 { font-size: 24pt; }
 h3 { font-size: 18pt; }
 
-#content > * {
+navigation,
+#content > div {
 	padding: 2em;
 }
 
