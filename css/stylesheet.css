@@ -9,7 +9,7 @@ h2 { font-size: 24pt; }
 h3 { font-size: 18pt; }
 
 #content > * {
-	padding: 1em;
+	padding: 2em;
 }
 
 #content > div {
@@ -17,7 +17,7 @@ h3 { font-size: 18pt; }
 	flex: 1 1 auto;
 	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, sans-serif;
 	font-size: 14pt;
-	margin-left: 2em;
+	margin-left: 1em;
 }
 
 a {
