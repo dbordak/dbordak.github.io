@@ -50,14 +50,18 @@ body, #content {
 
 navigation, footer {
 	background: #1e1e27;
-	order: -1;
 	max-width: 20em;
 	font-family: Roboto, sans-serif;
 	display: flex;
 	flex-direction: column;
 }
 
+navigation {
+	order: -1;
+}
+
 footer {
+	order: 100;
 	flex: 1 1 auto;
 }
 
