@@ -8,7 +8,7 @@
   
 ** [[https://github.com/dbordak/telephone-line][telephone-line]]
 
-[[./media/abs.png]]
+[[https://github.com/dbordak/telephone-line][./media/abs.png]]
 
 A new implementation of [[https://github.com/powerline/powerline][Powerline]] for Emacs. As compared to the
 existing version, telephone-line features greater extensibility -- it
@@ -20,7 +20,7 @@ separators included.
 
 ** [[https://github.com/dbordak/words][words]]
 
-[[./media/words.png]]
+[[https://github.com/dbordak/words][./media/words.png]]
 
 An implementation of [[https://boardgamegeek.com/boardgame/178900/codenames][Codenames]] by Vlaada Chvátil using Elixir+Phoenix
 for the backend and Elm for the frontend. This was mostly a learning
@@ -36,7 +36,7 @@ Won 3rd place at the Spring 2015 HackRU!
 
 ** [[https://github.com/revan/BusOccupancy][BusOccupancy]]
 
-[[./media/bus_occupancy.png]]
+[[https://github.com/revan/BusOccupancy][./media/bus_occupancy.png]]
 
 Independent Study project. We observed the occupancy of a bus route
 directly, then attempted to develop a reliable estimate by analyzing
@@ -45,7 +45,7 @@ tcpdump, and the graphs were produced using Pandas+Numpy.
 
 ** [[https://github.com/revan/captcha4charity][captcha4charity]]
 
-[[./media/captcha4charity.png]]
+[[https://github.com/revan/captcha4charity][./media/captcha4charity.png]]
 
 A crowdsourced captcha solver which raises money for charity. The
 project wasn't quite finished, but it still made for a nice
@@ -55,7 +55,7 @@ Won "Restored Faith In Humanity" at the Spring 2014 HackRU!
 
 ** [[https://github.com/dbordak/mailcraft][mailcraft]]
 
-[[./media/mailcraft.png]]
+[[https://github.com/dbordak/mailcraft][./media/mailcraft.png]]
 
 A maze generator for Minecraft using email threads to determine the shape.
 
