@@ -32,7 +32,7 @@ can play complete games.
 
 An Emacs plugin that shares your current buffer via email or SMS.
 
-Won 2nd place at the Spring 2015 HackRU!
+Won 3rd place at the Spring 2015 HackRU!
 
 ** [[https://github.com/revan/BusOccupancy][BusOccupancy]]
 

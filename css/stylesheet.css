@@ -8,15 +8,17 @@ body {
 h2 { font-size: 24pt; }
 h3 { font-size: 18pt; }
 
-#content > * {
-	padding: 1em;
+navigation,
+#content > div {
+	padding: 2em;
 }
 
 #content > div {
 	overflow-y: auto;
-	flex: 1 1 auto;
 	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, sans-serif;
-	font-size: 15px;
+	font-size: 14pt;
+	margin-left: 1em;
+	flex: 1 1 auto;
 }
 
 a {
@@ -48,13 +50,22 @@ body, #content {
 	display: flex;
 }
 
-navigation {
+navigation, footer {
 	background: #1e1e27;
-	order: -1;
 	max-width: 20em;
 	font-family: Roboto, sans-serif;
 	display: flex;
 	flex-direction: column;
+	line-height: 32px;
+}
+
+navigation {
+	order: -1;
+}
+
+footer {
+	order: 100;
+	flex: 1 1 auto;
 }
 
 navigation,
@@ -74,12 +85,10 @@ blockquote {
 
 p {
 	max-width: 40em;
-	margin-left: 2em;
 }
 
 p img {
-	max-width: 110%;
-	margin-left: -2em;
+	width: 100%;
 }
 
 .verse {
