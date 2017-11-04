@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/dbordak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.dbordak.com
+  * I am dbordak (https://keybase.io/dbordak) on keybase.
+  * I have a public key ASCzaX3WjOqf4KNKsxZ385K4tdAb6LLVX_GI_-FqRXJd3go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b3697dd68cea9fe0a34ab31677f392b8b5d01be8b2d55ff188ffe16a45725dde0a",
+      "host": "keybase.io",
+      "kid": "0120b3697dd68cea9fe0a34ab31677f392b8b5d01be8b2d55ff188ffe16a45725dde0a",
+      "uid": "7a4edd7da13fa19214730dd83a2dcb19",
+      "username": "dbordak"
+    },
+    "merkle_root": {
+      "ctime": 1507236846,
+      "hash": "fa3d74bbf2d656abd91e38e3009f17838a87f9ae2e7d85095a60127cdb6d2ecd1fc4671fa7bdb9579c6ea122007e2e994146198848a60171f4b349436bf3200e",
+      "hash_meta": "f00e36e7ec2c2e639622b35836290959d59fd4637a63a6146e9fe044e9d3e0a3",
+      "seqno": 1519171
+    },
+    "service": {
+      "hostname": "www.dbordak.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507236855,
+  "expire_in": 504576000,
+  "prev": "5a6513428c0a32d0d4b0f65ab80fa2048537eac1290499377ca92cfd9299cacc",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgs2l91ozqn+CjSrMWd/OSuLXQG+iy1V/xiP/hakVyXd4Kp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjM2OTdkZDY4Y2VhOWZlMGEzNGFiMzE2NzdmMzkyYjhiNWQwMWJlOGIyZDU1ZmYxODhmZmUxNmE0NTcyNWRkZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjM2OTdkZDY4Y2VhOWZlMGEzNGFiMzE2NzdmMzkyYjhiNWQwMWJlOGIyZDU1ZmYxODhmZmUxNmE0NTcyNWRkZTBhIiwidWlkIjoiN2E0ZWRkN2RhMTNmYTE5MjE0NzMwZGQ4M2EyZGNiMTkiLCJ1c2VybmFtZSI6ImRib3JkYWsifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDcyMzY4NDYsImhhc2giOiJmYTNkNzRiYmYyZDY1NmFiZDkxZTM4ZTMwMDlmMTc4MzhhODdmOWFlMmU3ZDg1MDk1YTYwMTI3Y2RiNmQyZWNkMWZjNDY3MWZhN2JkYjk1NzljNmVhMTIyMDA3ZTJlOTk0MTQ2MTk4ODQ4YTYwMTcxZjRiMzQ5NDM2YmYzMjAwZSIsImhhc2hfbWV0YSI6ImYwMGUzNmU3ZWMyYzJlNjM5NjIyYjM1ODM2MjkwOTU5ZDU5ZmQ0NjM3YTYzYTYxNDZlOWZlMDQ0ZTlkM2UwYTMiLCJzZXFubyI6MTUxOTE3MX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuZGJvcmRhay5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA3MjM2ODU1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjVhNjUxMzQyOGMwYTMyZDBkNGIwZjY1YWI4MGZhMjA0ODUzN2VhYzEyOTA0OTkzNzdjYTkyY2ZkOTI5OWNhY2MiLCJzZXFubyI6OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAsa2OqaCM6kqYqtifq01PGmT86rczthizucC4MGAJgeu32MKFdxhGNLLgUFIWIvL6WOSqYm5h4AAPnKtwZxDcFqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgSqmuk1gLemf97fPgvL2t6ArSSUi5MUJ60KL5IftXr+mjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dbordak
+
+==================================================================
